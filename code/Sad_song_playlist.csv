@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,YOUNGDIVY,Boy Gone Wild,All the Time,6LPnXEWZ8SOnK0GCVfWIJL,0.678,0.513,1,-9.753,0,0.0275,0,0.102,0.375,109.924,161455,4
+1,Juice WRLD,Legends Never Die,Smile (with The Weeknd),6wQlQrTY5mVS8EGaFZVwVF,0.694,0.685,6,-6.535,0,0.133,0,0.124,0.306,158.831,196180,4
+2,XXXTENTACION,?,NUMB,01TnVDiet1DFTsyWKUKovl,0.414,0.416,11,-8.024,0,0.0251,0.179,0.131,0.196,159.91,186268,4
+3,Ali Gatie,Remedy,Remedy,4WahOhXKxmMKVnfVXQoEtk,0.777,0.647,4,-6.802,0,0.328,0,0.0771,0.606,82.718,187383,4
+4,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0,0.2,0,0.34,0.218,83.903,239836,4
+5,Billie Eilish,lovely (with Khalid),lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,0.351,0.296,4,-10.109,0,0.0333,0,0.095,0.12,115.284,200186,4
+6,Ali Gatie,What If I Told You That I Love You,What If I Told You That I Love You,3cqPu20DGTGUoZtbJH2Dmi,0.605,0.365,7,-11.144,1,0.111,6.83e-06,0.0554,0.224,84.628,193668,4
+7,Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.642,0.374,4,-9.386,1,0.0545,0,0.0906,0.0799,124.099,169266,4
+8,Birdy,Birdy,Skinny Love,4RL77hMWUq35NYnPLXBpih,0.379,0.29,4,-8.485,1,0.051,0.00106,0.118,0.169,166.467,201080,4
+9,Lewis Capaldi,Before You Go,Before You Go,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,1,0.0573,0,0.0885,0.183,111.881,215107,4
+10,Alec Benjamin,Narrated For You,Water Fountain,4IhKLu7Vk3j2TLmnFPl6To,0.723,0.504,8,-5.572,1,0.0392,7.4e-05,0.087,0.551,133.975,218893,4
+11,Dean Lewis,Be Alright,Be Alright,3EPXxR3ImUwfayaurPi3cm,0.553,0.586,11,-6.319,1,0.0362,0,0.0813,0.443,126.684,196373,4
+12,Tate McRae,One Day,One Day,27r2uANqwK7XbsiAZnzf9e,0.52,0.119,0,-12.148,1,0.0407,0,0.0883,0.355,69.217,202496,4
+13,Anson Seabra,Robin Hood,Robin Hood,5dyihZecYMcEPq09Bk2OL2,0.634,0.153,4,-14.409,1,0.0622,0,0.134,0.318,77.77,221538,4
+14,Ruth B.,Lost Boy,Lost Boy,4h0zU3O9R5xzuTmNO7dNDU,0.71,0.0565,7,-15.099,1,0.0534,0,0.0889,0.348,123.994,275280,4
+15,Selena Gomez,Rare,Lose You To Love Me,4l0Mvzj72xxOpRrp6h8nHi,0.488,0.343,4,-8.985,1,0.0436,0,0.21,0.0978,102.819,206459,4
+16,Logic,Everybody,1-800-273-8255,5tz69p7tJuGPeMGwNTxYuV,0.62,0.574,5,-7.788,0,0.0479,0,0.19,0.357,100.023,250173,4
+17,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,0.501,0.405,1,-5.679,1,0.0319,0,0.105,0.446,109.891,182161,4
+18,Passenger,All The Little Lights,Let Her Go,2jyjhRf6DVbMPU5zxagN2h,0.509,0.538,7,-7.335,1,0.0572,0,0.104,0.244,75.089,252867,4
+19,Selena Gomez,The Heart Wants What It Wants,The Heart Wants What It Wants,6wJwkMo278iWVlWl1XQ4WA,0.616,0.789,7,-4.874,0,0.0377,0,0.142,0.621,83.066,227373,4
+20,Ali Gatie,YOU,It's You,5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,11,-6.972,0,0.0287,0,0.194,0.397,95.971,212607,4
+21,Alec Benjamin,Narrated For You,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,0.652,0.557,1,-5.714,0,0.0318,0,0.124,0.483,150.073,169354,4
+22,James Arthur,Back from the Edge,Say You Won't Let Go,5uCax9HTNlzGybIStD3vDh,0.358,0.557,10,-7.398,1,0.059,0,0.0902,0.494,85.043,211467,4
+23,Nick Lopez,Come Over,Come Over,4CmRWCA43bVbHZ6zbCjClw,0.86,0.361,5,-10.94,1,0.0612,0,0.125,0.787,104.966,121121,4
+24,Ali Gatie,YOU,Moonlight,6L4F4btXioJPhEwz6T7YYt,0.804,0.479,11,-6.661,1,0.0321,0,0.0994,0.462,120.0,228484,4
+25,Jaymes Young,Happiest Year,Happiest Year,5kcvBnt6DPX3AMEsCx1qDh,0.501,0.167,1,-14.061,1,0.0484,0,0.111,0.356,112.275,228443,3
+26,Khalid,American Teen,Coaster,39KG4kom3enSx4GTThuDGt,0.441,0.219,8,-14.586,1,0.0419,0,0.115,0.244,94.021,199120,4
+27,Dean Lewis,A Place We Knew,Half A Man,1ugQtcwmKOXvKAYzhjncmv,0.507,0.204,0,-11.575,1,0.0504,0,0.143,0.343,77.765,179120,4
+28,The Weeknd,After Hours (Deluxe),Nothing Compares - Bonus Track,5ciyqWW5YuGqF4Avu7uwry,0.532,0.577,1,-9.313,1,0.0352,0.0437,0.234,0.0397,131.922,222307,4
+29,James Arthur,Finally Feel Good,Finally Feel Good,1QyxXnQXlGqG28syVg3LyP,0.577,0.661,11,-4.962,1,0.134,0,0.076,0.737,79.009,215107,4
+30,The Weeknd,After Hours,Scared To Live,4BGZF4oLbTL0pWm7C18pbv,0.504,0.498,0,-8.24,1,0.0499,0,0.0929,0.196,87.221,191307,4
+31,Fintan,Better Broken,Better Broken,5aRmwP3PJ7kQvnyrCevzvr,0.717,0.567,4,-6.749,1,0.0412,0.00025,0.0963,0.475,80.015,192176,4
+32,Jorja Smith,Lost & Found,Goodbyes,4CYBfRX3oEPni9Elqm8Bnt,0.512,0.184,9,-8.812,0,0.0587,0,0.284,0.37,85.82,230930,4
+33,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Bruises,4Of7rzpRpV1mWRbhp5rAqG,0.736,0.308,4,-7.83,1,0.0677,0,0.186,0.361,111.202,220492,4
+34,Sasha Sloan,Older,Older,52iLDrSoRtf9lcgFuLVfqE,0.681,0.292,11,-9.599,1,0.0483,0,0.0974,0.162,64.002,191002,4
+35,Ali Gatie,Can't Lie,Can't Lie,3qWZuhWi4lsHa7jUwhqfMr,0.802,0.414,7,-10.635,1,0.0776,0,0.0863,0.377,131.952,195066,4
+36,Peter Manos,In My Head,In My Head,3bne7Qit5AbHkX6kWDItYP,0.499,0.181,9,-15.359,0,0.0429,0.00123,0.106,0.0747,111.956,214533,4
+37,James Arthur,James Arthur (Deluxe),Impossible - Acoustic,0JswmIBSn3XZ15wEEtH5fj,0.37,0.419,2,-5.314,1,0.0382,0,0.121,0.255,145.866,250653,4
+38,James Smith,Tell Me That You Love Me,Tell Me That You Love Me,2wHA4yJKT8TJhGz20QxUqX,0.536,0.317,6,-8.752,1,0.0359,0,0.11,0.319,143.89,194659,4
+39,Natalie Taylor,Surrender,Surrender,0ecC8p17cDNlxHXkuYqeR6,0.39,0.448,5,-8.57,0,0.0276,0.182,0.107,0.077,144.89,183103,5
+40,Kodaline,In A Perfect World (Expanded Edition),All I Want,0NlGoUyOJSuSHmngoibVAs,0.209,0.412,0,-9.733,1,0.0443,0.15,0.0843,0.162,86.26,305747,3
+41,Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,0.522,0.385,0,-7.355,1,0.0288,0,0.135,0.236,89.792,207520,4
+42,XXXTENTACION,?,changes,7AFASza1mXqntmGtbxXprO,0.669,0.308,11,-10.068,1,0.029,0,0.0984,0.52,64.934,121887,4
+43,OpenSoul,Out of My System,Out of My System,5rOyaiH5TMVAJ2pTKVkUQ6,0.767,0.59,1,-8.317,0,0.14,0,0.0866,0.578,95.993,207499,4
+44,Tate McRae,all the things i never said,that way,7l97ElWmIdVHWUaOeeU5ZC,0.453,0.383,0,-11.015,1,0.163,0,0.387,0.333,105.029,175027,4
+45,Anne-Marie,Her,Her,2GjQ5KNXggsIRpx5ZUj2zX,0.567,0.395,10,-5.568,1,0.0303,0,0.106,0.329,119.849,177569,4
+46,Stileto,State Of Mind,State Of Mind,65YiXAuE5eA8pWI4COEhmQ,0.506,0.729,0,-4.414,0,0.133,1.11e-06,0.267,0.364,159.768,151500,4
+47,Billie Eilish,dont smile at me,ocean eyes,7hDVYcQq6MxkdJGweuCtl9,0.511,0.363,4,-7.65,0,0.041,0.0317,0.084,0.169,144.892,200379,4
+48,Birdy,Beautiful Lies,Deep End,555CH6CnGJRqO37pqA30vW,0.455,0.296,2,-8.513,1,0.0399,0,0.0783,0.31,171.744,208840,4
+49,Lewis Capaldi,Hold Me While You Wait,Hold Me While You Wait,6700Z4Izi8EbB6JNthU6Ma,0.688,0.53,11,-5.507,1,0.0333,0,0.0995,0.162,106.958,205687,4
+50,Declan J Donovan,Fallen so Young,Fallen so Young,3y4uSQwxHckyRcvafEilkN,0.552,0.356,10,-7.608,1,0.027,0,0.173,0.196,109.763,232164,4
+51,Kelly Clarkson,Breakaway,Because of You,0gJvqi9QyASOCtJu99tytc,0.587,0.583,5,-5.284,0,0.0313,0,0.124,0.15,139.92,219493,4
+52,Silent Child,Life Sux,Life Sux,3bkjytkq99VLjtbxUp8twy,0.375,0.678,5,-6.617,1,0.157,2.2e-06,0.337,0.424,102.817,201176,3
+53,Dean Lewis,A Place We Knew,Waves,6w8pFOKn42O418qwcQElZ3,0.518,0.729,11,-7.193,0,0.0452,0,0.0643,0.343,156.879,240013,4
+54,Sia,Colour The Small One,Breathe Me,7jqzZyJJLrpkRFYGpkqSK6,0.552,0.643,0,-7.36,1,0.0327,0.74,0.105,0.212,120.012,272800,4
+55,beaurial,Why Can't We Go Back,Why Can't We Go Back,50E7VDssTF9on4fEVrKS7F,0.608,0.283,2,-12.479,0,0.0324,0.00294,0.318,0.168,169.988,173647,4
+56,Adele,21,Someone Like You,6QPKYGnAW9QozVz2dSWqRg,0.554,0.321,9,-8.251,1,0.028,0,0.0996,0.288,135.047,285240,4
+57,XXXTENTACION,17,Jocelyn Flores,7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,0,-9.144,0,0.242,4.13e-06,0.297,0.437,134.021,119133,4
+58,Labrinth,Jealous,Jealous,4L2K7JKseFCBoHMZEAszW0,0.435,0.155,1,-8.948,1,0.046,0,0.107,0.0935,128.532,287693,3
+59,Harry Styles,Fine Line,Falling,1ZMiCix7XSAbfAJlEZWMCp,0.567,0.267,4,-6.502,1,0.0299,1.46e-06,0.089,0.0592,110.011,240133,4
+60,Jeremy Zucker,brent,scared,6r2JV75tE0vNgNCv4HKsBC,0.583,0.075,5,-15.843,1,0.0726,1.4e-06,0.111,0.347,108.418,207520,4
+61,Alexander 23,IDK You Yet,IDK You Yet,47EWMOElkkbMp5m9SBkx7d,0.629,0.306,1,-11.735,1,0.0424,0.0776,0.124,0.191,76.994,184638,1
+62,Luz,we'll be fine,we'll be fine,7KKamdf8oLVz1eFcNRjvnq,0.563,0.382,10,-11.138,1,0.0404,0,0.0714,0.197,120.802,262960,4
+63,Jordan Suaste,Body,Body,6wQgV6ZYt1snXyQV69mGT4,0.452,0.325,4,-8.687,0,0.0337,0,0.0645,0.33,97.987,205402,4
+64,Lauv,~how i'm feeling~ (the extras),Love Like That,23tJmuwvUOa2kTsOlNMWCS,0.679,0.481,3,-9.045,1,0.0593,1.02e-05,0.284,0.486,80.011,184557,4
+65,FINNEAS,I Lost a Friend,I Lost a Friend,49MMefftWPcltNP4OOJGSs,0.453,0.209,11,-11.917,1,0.223,0,0.119,0.216,169.316,237020,4
+66,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",when the party's over,43zdsphuZLzwA9k4DJhU0I,0.367,0.111,4,-14.084,1,0.0972,3.97e-05,0.0897,0.198,82.642,196077,4
+67,Noah Cyrus,THE END OF EVERYTHING,July,6J2LdBN97cDWn0MLxYh9HB,0.708,0.186,9,-8.953,0,0.042,0,0.0779,0.322,72.541,156106,4
+68,The 1975,The 1975 (Deluxe),Me,4w0joPRhKJsrzq1euxkpZ2,0.376,0.306,2,-14.092,1,0.0324,0.889,0.0831,0.066,114.761,275022,3
+69,Olivia O'Brien,hate u love u,hate u love u,6ATgDc6e4sPn84hvJsAmPt,0.407,0.416,6,-8.915,0,0.174,0,0.0981,0.246,176.947,175467,4
+70,JP Saxe,If the World Was Ending (feat. Julia Michaels),If the World Was Ending - feat. Julia Michaels,2kJwzbxV2ppxnQoYw4GLBZ,0.464,0.473,1,-10.086,1,0.129,0,0.109,0.604,75.801,208687,4
+71,Post Malone,Stoney (Deluxe),I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,0.556,0.538,8,-5.408,0,0.0382,0,0.196,0.291,143.95,223347,4
+72,Juice WRLD,Legends,Legends,1Knctxx9vGZxpZfF66BIEa,0.594,0.798,4,-5.244,1,0.0844,0,0.143,0.381,142.049,191840,4
+73,Anson Seabra,Trying My Best,Trying My Best,06qUEhhx6jKQmhj2qAkn4H,0.561,0.0587,5,-17.819,1,0.0762,0,0.0828,0.342,143.027,222468,1
+74,Noah Cyrus,THE END OF EVERYTHING,Lonely,6U1iuA5QfzYRPJxvdcxqtf,0.53,0.281,5,-8.274,1,0.0577,0,0.0928,0.341,122.442,144377,4
+75,Calum Scott,Only Human (Deluxe),Dancing On My Own,2BOqDYLOJBiMOXShCV1neZ,0.682,0.173,1,-8.749,1,0.0314,3.26e-05,0.0983,0.236,112.663,260285,4
+76,A Great Big World,Is There Anybody Out There?,Say Something,6Vc5wAMmXdKIAM7WUoEb7N,0.407,0.147,2,-8.822,1,0.0355,2.89e-06,0.0913,0.0765,141.284,229400,3
+77,James Arthur,Naked,Naked,7krbSH3rd8lhIZvuzTV3Bl,0.529,0.607,6,-6.781,1,0.0574,0,0.0631,0.238,101.966,234107,4
+78,Ruel,Don't Tell Me,Don't Tell Me,1MzaBCyq0TX0ScxSmG6Cd1,0.565,0.324,4,-9.137,0,0.0342,2.17e-05,0.381,0.139,77.495,241625,3
+79,Avril Lavigne,Goodbye Lullaby (Expanded Edition),Wish You Were Here,5XHf9PBxxHmJFuiDkGNIOA,0.454,0.865,4,-3.841,1,0.0561,0,0.186,0.34,166.018,225760,4
+80,LANY,Malibu Nights,Thru These Tears,7GbAp0HKPQW7WnFJAzMoRk,0.711,0.517,11,-7.695,1,0.0391,0,0.149,0.294,119.945,204516,4
+81,LANY,Malibu Nights,Malibu Nights,0Eqg0CQ7bK3RQIMPw1A7pl,0.559,0.422,11,-11.89,1,0.195,1.99e-06,0.0853,0.191,74.002,286928,4
+82,Anson Seabra,Broken,Broken,1SoR3NCP3P9dtdoTnpPNi1,0.551,0.0754,6,-14.203,1,0.059,0,0.154,0.239,98.348,305676,4
+83,Rex Orange County,Sunflower,Sunflower,4EpZ4eYuZOwPSSwyqpdHnJ,0.384,0.765,6,-4.463,1,0.0579,0.00352,0.522,0.567,129.903,252231,4
+84,Lauv,I met you when I was 18. (the playlist),Breathe,373q2bp4ZvyJ9kFZcpJSMs,0.32,0.393,4,-8.08,1,0.039,0,0.341,0.193,136.746,237810,4
+85,NF,The Search,Hate Myself,5PdEiev2BkKiZtZFcNKjfM,0.533,0.84,9,-5.283,0,0.167,0,0.114,0.361,116.882,260253,4
+86,Lady Gaga,A Star Is Born Soundtrack (Without Dialogue),Always Remember Us This Way,2rbDhOo9Fh61Bbu23T2qCk,0.553,0.502,0,-5.972,1,0.0409,0,0.764,0.296,129.976,210200,4
+87,Hillsong UNITED,Zion,Oceans (Where Feet May Fail),5SDcksP8En1l6RtTY1wzHc,0.264,0.363,2,-10.196,1,0.0338,0.00406,0.11,0.0613,124.328,536000,4
+88,LANY,Malibu Nights,If You See Her,3coUcc0CDAHz2QwdP7Pee8,0.635,0.679,1,-7.374,1,0.0861,0,0.0954,0.239,117.867,182901,4
+89,Frank Ocean,Blonde,White Ferrari,2LMkwUfqC6S6s6qDVlEuzV,0.444,0.0924,0,-15.605,1,0.0366,0,0.304,0.219,108.917,248808,4
+90,EDEN,vertigo,crash,7EkMIQ2PzEzwQroLl6dUvw,0.503,0.212,0,-12.735,0,0.0658,0.000293,0.12,0.185,118.492,232412,4
+91,Adele,25,When We Were Young,0cj2joJcY6b4XSRfj2eZOl,0.377,0.595,3,-5.936,1,0.0489,0,0.095,0.264,144.464,290900,4
+92,John Legend,Love In The Future (Expanded Edition),All of Me,3U4isOIWM3VvDubwSI3y7a,0.422,0.264,8,-7.064,1,0.0322,0,0.132,0.331,119.93,269560,4
+93,NF,Therapy Session,How Could You Leave Us,10bt2wAkFgCWRCEOyAyWT9,0.536,0.708,6,-7.882,1,0.758,0,0.0951,0.09,78.33,322587,4
+94,Wiz Khalifa,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),2JzZzZUQj3Qff7wapcbKjc,0.689,0.481,10,-7.503,1,0.0815,1.03e-06,0.0649,0.283,80.025,229526,4
+95,Calum Scott,Only Human (Special Edition),You Are The Reason - Duet Version,1x3W8RZxW94lrVGhP95qA6,0.403,0.356,10,-7.547,1,0.0298,0,0.148,0.151,171.454,190760,3
+96,Lana Del Rey,Video Games,Video Games,5xTEkzHycz81QTcqCS9oVv,0.336,0.298,6,-8.547,0,0.0324,2.6e-06,0.0858,0.203,123.856,284500,4
+97,Halsey,hopeless fountain kingdom (Deluxe),Sorry,44n97yHySt0Z9rqPaXgjCK,0.513,0.25,5,-9.376,0,0.0367,0,0.117,0.351,74.103,220541,4
+98,Coldplay,X&Y,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,0.209,0.417,3,-8.74,1,0.0338,0.00196,0.113,0.124,138.178,295533,4
+99,Russ,There's Really A Wolf,Losin Control,4cxMGhkinTocPSVVKWIw0d,0.759,0.245,6,-6.545,1,0.138,0.000154,0.102,0.209,96.992,237507,4
