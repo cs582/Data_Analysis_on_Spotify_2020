@@ -1,0 +1,1952 @@
+genre,label
+pop,0
+pop rock,1
+rap,2
+southern hip hop,3
+post-teen pop,4
+show tunes,5
+pop rap,6
+rock,7
+classical performance,8
+post-grunge,9
+new wave pop,10
+modern rock,11
+country road,12
+trap,13
+underground hip hop,14
+r&b,15
+urban contemporary,16
+norteno,17
+movie tunes,18
+quiet storm,19
+soul,20
+hollywood,21
+soft rock,22
+latin pop,23
+hip hop,24
+broadway,25
+country rock,26
+roots rock,27
+classical piano,28
+lounge,29
+mellow gold,30
+opera,31
+neo mellow,32
+reggaeton,33
+background music,34
+christian music,35
+gospel,36
+orchestra,37
+sleep,38
+indie pop,39
+rhythm and blues,40
+electro house,41
+punk,42
+orchestral performance,43
+traditional folk,44
+rock-and-roll,45
+grupera,46
+classical soprano,47
+disney,48
+country,49
+indietronica,50
+contemporary country,51
+motown,52
+tropical,53
+post-disco,54
+reggaeton flow,55
+new wave,56
+rock en espanol,57
+k-pop,58
+smooth jazz,59
+stomp and holler,60
+folk rock,61
+indie rock,62
+environmental,63
+regional mexican pop,64
+new americana,65
+regional mexican,66
+soundtrack,67
+hard rock,68
+ranchera,69
+pop punk,70
+bubblegum pop,71
+swing,72
+otacore,73
+europop,74
+nu metal,75
+texas country,76
+tropical house,77
+comic,78
+tejano,79
+indie soul,80
+psychedelic rock,81
+jazz funk,82
+doo-wop,83
+lo-fi beats,84
+roots reggae,85
+ska,86
+easy listening,87
+southern soul,88
+reggae fusion,89
+chanson,90
+indie r&b,91
+disco,92
+vintage chanson,93
+classic soul,94
+focus,95
+indie garage rock,96
+rock steady,97
+rebetiko,98
+modern bollywood,99
+hardcore hip hop,100
+jazz,101
+historic orchestral performance,102
+merseybeat,103
+soul jazz,104
+world worship,105
+samba,106
+hip house,107
+progressive bluegrass,108
+jazz saxophone,109
+country rap,110
+reggae,111
+funk,112
+emo rap,113
+permanent wave,114
+salsa,115
+metal,116
+latin christian,117
+indian folk,118
+chillhop,119
+pop edm,120
+cali rap,121
+salsa international,122
+ska punk,123
+hard bop,124
+rockabilly,125
+new age,126
+cumbia sonidera,127
+electric blues,128
+screamo,129
+latin,130
+modern alternative rock,131
+electropop,132
+hawaiian,133
+vapor trap,134
+indie folk,135
+social media pop,136
+progressive rock,137
+neo soul,138
+classic country pop,139
+filmi,140
+dance pop,141
+new jack swing,142
+classical bass,143
+classic soundtrack,144
+hip pop,145
+chamber orchestra,146
+jazz fusion,147
+rap rock,148
+stride,149
+country dawn,150
+viral pop,151
+vocal jazz,152
+classical,153
+alternative r&b,154
+meme rap,155
+lilith,156
+corridos tumbados,157
+metalcore,158
+pub rock,159
+west coast rap,160
+classical tenor,161
+velha guarda,162
+new rave,163
+pop emo,164
+historic piano performance,165
+old school hip hop,166
+torch song,167
+modern country rock,168
+bolero,169
+skate punk,170
+early modern classical,171
+escape room,172
+indie poptimism,173
+classic mandopop,174
+uk pop,175
+red dirt,176
+glam rock,177
+australian pop,178
+trip hop,179
+late romantic era,180
+space age pop,181
+classic italian pop,182
+rumba,183
+pop romantico,184
+contemporary gospel,185
+jawaiian,186
+calypso,187
+lo-fi,188
+jam band,189
+electronica,190
+post-punk,191
+melancholia,192
+neo-classical,193
+classic bollywood,194
+scorecore,195
+vintage hollywood,196
+classic cantopop,197
+merengue,198
+deep pop r&b,199
+piano rock,200
+salsa puertorriquena,201
+vapor soul,202
+turntablism,203
+country pop,204
+surf music,205
+spanish pop,206
+yacht rock,207
+chicano rap,208
+mexican rock-and-roll,209
+jazz trio,210
+indian classical,211
+big band,212
+post-screamo,213
+freestyle,214
+post-romantic era,215
+poetry,216
+reggae rock,217
+metropopolis,218
+american folk revival,219
+progressive electro house,220
+freakbeat,221
+shimmer pop,222
+traditional blues,223
+comedy,224
+post-hardcore,225
+edm,226
+latin jazz,227
+worship,228
+outlaw country,229
+library music,230
+singer-songwriter,231
+italian tenor,232
+mpb,233
+mariachi,234
+protopunk,235
+atl hip hop,236
+vintage italian pop,237
+west coast trap,238
+mandopop,239
+praise,240
+calming instrumental,241
+old-time,242
+traditional country,243
+video game music,244
+banda,245
+redneck,246
+classic uk pop,247
+mexican pop,248
+modern blues,249
+underground rap,250
+jazz guitar,251
+adult standards,252
+folk,253
+canzone napoletana,254
+classical era,255
+bossa nova,256
+jazz double bass,257
+brill building pop,258
+classical mezzo-soprano,259
+operatic pop,260
+indiecoustica,261
+sound,262
+sufi,263
+gaming edm,264
+c-pop,265
+sleaze rock,266
+dancehall,267
+nashville sound,268
+classic israeli pop,269
+vocal harmony group,270
+cumbia,271
+nyc rap,272
+southern rock,273
+cowboy western,274
+novelty,275
+jazz drums,276
+classic opm,277
+gangster rap,278
+rap metal,279
+latin hip hop,280
+jazz trumpet,281
+vintage tango,282
+violin,283
+bedroom pop,284
+classic canadian rock,285
+latin rock,286
+nu jazz,287
+ragtime,288
+antiviral pop,289
+mexican rock,290
+rare groove,291
+new orleans jazz,292
+tin pan alley,293
+classical cello,294
+eurodance,295
+northern soul,296
+la pop,297
+irish folk,298
+french rock,299
+korean pop,300
+electro,301
+synthpop,302
+heartland rock,303
+jazz piano,304
+g funk,305
+italian bass,306
+indie pop rap,307
+laiko,308
+trap latino,309
+deep regional mexican,310
+new romantic,311
+gruperas inmortales,312
+meditation,313
+house,314
+acoustic pop,315
+pinoy rock,316
+la indie,317
+trap soul,318
+alternative metal,319
+alternative hip hop,320
+water,321
+american modern classical,322
+early music,323
+exotica,324
+classical baritone,325
+modern blues rock,326
+vintage italian soundtrack,327
+lullaby,328
+freak folk,329
+pixie,330
+power pop,331
+electronic trap,332
+hyphy,333
+neo-psychedelic,334
+philly rap,335
+free jazz,336
+nu gaze,337
+j-pop,338
+opm,339
+historically informed performance,340
+industrial rock,341
+symphonic rock,342
+italian baritone,343
+britpop,344
+progressive metal,345
+florida rap,346
+haitian traditional,347
+deep adult standards,348
+chicago rap,349
+album rock,350
+deep soft rock,351
+british soul,352
+uk post-punk,353
+classical organ,354
+italian pop,355
+nyc pop,356
+deep underground hip hop,357
+slow core,358
+classical guitar,359
+roots americana,360
+vintage chinese pop,361
+new jersey rap,362
+swedish pop,363
+melodic rap,364
+native american,365
+country gospel,366
+celtic,367
+duranguense,368
+healing,369
+jazz quartet,370
+future funk,371
+new french touch,372
+australian rock,373
+sertanejo universitario,374
+corrido,375
+memphis hip hop,376
+jazz rap,377
+historic classical performance,378
+cartoon,379
+italian disco,380
+classical flute,381
+philly soul,382
+delta blues,383
+melodic metalcore,384
+uk dance,385
+gothic rock,386
+ghazal,387
+classical contralto,388
+japanese city pop,389
+string quartet,390
+anthem worship,391
+instrumental bluegrass,392
+white noise,393
+indie cafe pop,394
+emo,395
+classic rock,396
+spanish new wave,397
+bronx hip hop,398
+soul flow,399
+uk82,400
+power metal,401
+puerto rican pop,402
+italian opera,403
+vocal house,404
+trance,405
+progressive house,406
+ye ye,407
+punk blues,408
+hardcore punk,409
+british blues,410
+lovers rock,411
+deep ccm,412
+sunshine pop,413
+glam metal,414
+hi-nrg,415
+rabindra sangeet,416
+norwegian pop,417
+conscious hip hop,418
+canadian indie,419
+boy band,420
+bow pop,421
+cabaret,422
+vintage jazz,423
+folk-pop,424
+atl trap,425
+compositional ambient,426
+k-rap,427
+canadian pop,428
+philly indie,429
+theme,430
+industrial metal,431
+modern hard rock,432
+baroque,433
+deep norteno,434
+alternative rock,435
+fourth world,436
+wrestling,437
+chamber pop,438
+gymcore,439
+modern funk,440
+oklahoma country,441
+vallenato,442
+southern soul blues,443
+trap queen,444
+pagode,445
+indie punk,446
+old school dancehall,447
+operetta,448
+british modern classical,449
+classic persian pop,450
+dirty texas rap,451
+early romantic era,452
+big beat,453
+latin worship,454
+neoclassicism,455
+spanish classical,456
+ninja,457
+russian modern classical,458
+nueva cancion,459
+world,460
+korean r&b,461
+atmosphere,462
+italian mezzo-soprano,463
+rosary,464
+italian soprano,465
+contemporary vocal jazz,466
+jazz organ,467
+modern southern rock,468
+neo-synthpop,469
+deep disco,470
+gbvfi,471
+tecnobanda,472
+classic praise,473
+impressionism,474
+psychedelic blues-rock,475
+chicago blues,476
+deep christian rock,477
+cumbia salvadorena,478
+christian rock,479
+nwobhm,480
+bedroom soul,481
+beatlesque,482
+merengue tipico,483
+uk hip hop,484
+polynesian pop,485
+opera chorus,486
+stoner metal,487
+rebel blues,488
+bangla,489
+taiwan campus folk,490
+phonk,491
+jazz vibraphone,492
+classic arab pop,493
+choral,494
+neo r&b,495
+ska revival,496
+bass trap,497
+wonky,498
+vintage classical singing,499
+swedish electropop,500
+southern gospel,501
+miami bass,502
+indie electropop,503
+french soundtrack,504
+nu disco,505
+galante era,506
+hardcore techno,507
+progressive post-hardcore,508
+classic colombian pop,509
+jazz trombone,510
+ukulele,511
+nc hip hop,512
+candy pop,513
+tango,514
+experimental,515
+new comedy,516
+folk punk,517
+perreo,518
+roots worship,519
+mexican hip hop,520
+indie surf,521
+salsa colombiana,522
+bakersfield sound,523
+salsa venezolana,524
+mambo,525
+diva house,526
+experimental rock,527
+baton rouge rap,528
+deep talent show,529
+jump blues,530
+soul blues,531
+grunge,532
+disco house,533
+classic swedish pop,534
+german literature,535
+arkansas country,536
+christian relaxative,537
+queens hip hop,538
+classical clarinet,539
+french jazz,540
+lds,541
+modern reggae,542
+harmonica blues,543
+tamil pop,544
+british folk,545
+steel guitar,546
+modern folk rock,547
+folktronica,548
+nu-cumbia,549
+vintage schlager,550
+underground power pop,551
+soca,552
+piano blues,553
+neo classical metal,554
+canadian hip hop,555
+miami hip hop,556
+post-rock,557
+rock drums,558
+instrumental funk,559
+swing italiano,560
+new age piano,561
+blues rock,562
+vintage spanish pop,563
+greek clarinet,564
+supergroup,565
+vintage swedish pop,566
+vapor twitch,567
+taiwan pop,568
+deep smooth jazz,569
+space rock,570
+rock gaucho,571
+spirituals,572
+funk rock,573
+indie anthem-folk,574
+melodic hardcore,575
+thrash metal,576
+british choir,577
+world fusion,578
+light music,579
+j-rock,580
+new orleans rap,581
+boogaloo,582
+new orleans blues,583
+rock cristiano,584
+latin viral pop,585
+honky tonk,586
+piano cover,587
+speed metal,588
+old school thrash,589
+synthwave,590
+australian indie,591
+anime score,592
+dream pop,593
+swedish alternative rock,594
+australian dance,595
+anglican liturgy,596
+talent show,597
+epicore,598
+neon pop punk,599
+east coast hip hop,600
+uk contemporary r&b,601
+j-poprock,602
+anime,603
+beach music,604
+australian reggae fusion,605
+no wave,606
+scandipop,607
+highlife,608
+monastic,609
+stoner rock,610
+british comedy,611
+pinoy indie,612
+swedish metal,613
+german techno,614
+industrial,615
+eurobeat,616
+latin alternative,617
+socal pop punk,618
+lgbtq+ hip hop,619
+dark trap,620
+art pop,621
+ballroom,622
+german opera,623
+celtic rock,624
+oi,625
+christian hip hop,626
+memphis soul,627
+neoclassical darkwave,628
+jazz cubano,629
+french pop,630
+drama,631
+shamanic,632
+steampunk,633
+dance-punk,634
+western swing,635
+instrumental post-rock,636
+alternative roots rock,637
+deep contemporary country,638
+smooth saxophone,639
+latin classical,640
+nederpop,641
+cool jazz,642
+moombahton,643
+west end,644
+anti-folk,645
+garage psych,646
+hard alternative,647
+dance rock,648
+afropop,649
+vocal trance,650
+vintage french electronic,651
+alternative americana,652
+new mexico music,653
+chicago house,654
+dfw rap,655
+funk metal,656
+psychedelic folk,657
+hindustani vocal,658
+noise pop,659
+banda caliente,660
+madchester,661
+nova mpb,662
+rock nacional,663
+texas blues,664
+contemporary classical,665
+traditional rockabilly,666
+alabama rap,667
+classify,668
+downtempo,669
+polish classical,670
+spiritual jazz,671
+gypsy jazz,672
+gauze pop,673
+italian baroque,674
+bubblegum dance,675
+grime,676
+east coast reggae,677
+straight edge,678
+surf punk,679
+nigerian hip hop,680
+zydeco,681
+jazz clarinet,682
+brazilian composition,683
+slayer,684
+american romanticism,685
+teen pop,686
+oxford indie,687
+ecm-style jazz,688
+filter house,689
+psychedelic hip hop,690
+classic korean pop,691
+glitch hop,692
+dixieland,693
+australian alternative rock,694
+norteno-sax,695
+deep new americana,696
+shanty,697
+french indietronica,698
+jangle pop,699
+classic japanese jazz,700
+radio symphony,701
+swamp rock,702
+british alternative rock,703
+zolo,704
+reggae en espanol,705
+blues,706
+burmese traditional,707
+nz pop,708
+progressive trance,709
+black comedy,710
+classic garage rock,711
+dreamo,712
+jazz violin,713
+irish country,714
+british dance band,715
+kannada bhava geethe,716
+ambeat,717
+jazz rock,718
+new orleans funk,719
+grunge pop,720
+livetronica,721
+post-disco soul,722
+outsider,723
+classical horn,724
+cowpunk,725
+west coast reggae,726
+spa,727
+harpsichord,728
+electro swing,729
+fingerstyle,730
+scottish rock,731
+bahamian folk,732
+vintage country folk,733
+cosmic american,734
+bluegrass,735
+cancion melodica,736
+traditional soul,737
+fado,738
+russian rock,739
+trova,740
+second line,741
+jazz blues,742
+intelligent dance music,743
+german choir,744
+comedy rap,745
+jazz brass,746
+slack-key guitar,747
+houston rap,748
+deep house,749
+flamenco,750
+reading,751
+pinoy traditional,752
+romanian rock,753
+tribal house,754
+baroque ensemble,755
+experimental vocal,756
+deep freestyle,757
+icelandic pop,758
+irish singer-songwriter,759
+japanese instrumental,760
+harlem hip hop,761
+melodic hard rock,762
+canadian country,763
+hammond organ,764
+english renaissance,765
+go-go,766
+turkish classical,767
+russian folk,768
+russian romanticism,769
+celtic punk,770
+riot grrrl,771
+australian electropop,772
+battle rap,773
+classic peruvian pop,774
+baroque pop,775
+stomp and flutter,776
+melbourne bounce,777
+minneapolis sound,778
+nigerian pop,779
+dirty south rap,780
+psychedelic folk rock,781
+mexican indie,782
+truck-driving country,783
+irish rock,784
+deep indian pop,785
+shred,786
+bolero cubano,787
+anime rock,788
+italian renaissance,789
+son cubano,790
+classic danish pop,791
+swamp pop,792
+medieval folk,793
+papuri,794
+rap latina,795
+minimalism,796
+piedmont blues,797
+israeli rock,798
+retro soul,799
+liquid funk,800
+spytrack,801
+early music ensemble,802
+classical harp,803
+deep ragga,804
+halloween,805
+rock urbano mexicano,806
+muzica populara,807
+deep southern trap,808
+neue deutsche welle,809
+midwest emo,810
+boston rock,811
+shoegaze,812
+gospel singers,813
+drone,814
+nica,815
+copla,816
+baroque violin,817
+nisiotika,818
+indonesian pop,819
+deep new wave,820
+japanese chillhop,821
+portland hip hop,822
+pop reggaeton,823
+nouvelle chanson francaise,824
+free improvisation,825
+french indie pop,826
+c86,827
+soukous,828
+a cappella,829
+modern dream pop,830
+minneapolis indie,831
+uk dancehall,832
+ottawa rap,833
+panamanian pop,834
+dutch pop,835
+austrian choir,836
+classic venezuelan pop,837
+scottish indie,838
+viral trap,839
+lo-fi chill,840
+hyperpop,841
+canadian singer-songwriter,842
+string orchestra,843
+victorian britain,844
+instrumental rock,845
+contemporary classical piano,846
+classic norwegian pop,847
+traprun,848
+symphonic metal,849
+alternative country,850
+dutch hip hop,851
+power-pop punk,852
+uplifting trance,853
+country blues,854
+wu fam,855
+new tribe,856
+ska argentino,857
+oratory,858
+sertanejo,859
+swedish indie pop,860
+sacramento indie,861
+middle earth,862
+vaporwave,863
+pop violin,864
+israeli pop,865
+guidance,866
+azeri traditional,867
+swedish jazz,868
+banjo,869
+classic girl group,870
+brass quintet,871
+brass band,872
+ccm,873
+gypsy punk,874
+cumbia funk,875
+turkish jazz,876
+girl group,877
+afro psych,878
+smooth soul,879
+nu-metalcore,880
+country boogie,881
+chill guitar,882
+cubaton,883
+swamp blues,884
+baiao,885
+trancecore,886
+french opera,887
+electra,888
+shiver pop,889
+mandolin,890
+deathcore,891
+romanian pop,892
+washington indie,893
+arab pop,894
+contemporary jazz,895
+gospel r&b,896
+pakistani folk,897
+parody,898
+emo punk,899
+nashville indie,900
+idol,901
+german jazz,902
+nueva ola chilena,903
+instrumental soul,904
+acid house,905
+shibuya-kei,906
+christian pop,907
+ethnomusicology,908
+musica prehispanica,909
+brazilian jazz,910
+psychobilly,911
+bouzouki,912
+twee pop,913
+southern metal,914
+anime latino,915
+stomp pop,916
+minnesota hip hop,917
+laboratorio,918
+greek contemporary classical,919
+thrash core,920
+alternative pop,921
+uk worship,922
+drift,923
+cancion infantil mexicana,924
+technical thrash,925
+musica llanera,926
+swedish synthpop,927
+j-pop girl group,928
+modern power pop,929
+uk metalcore,930
+minimal wave,931
+puerto rican folk,932
+canadian soundtrack,933
+colombian pop,934
+brega,935
+hopebeat,936
+pop house,937
+ethereal wave,938
+instrumental surf,939
+sludge metal,940
+noise rock,941
+k-pop girl group,942
+microhouse,943
+jazz flute,944
+memphis blues,945
+early avant garde,946
+neo-singer-songwriter,947
+anthem emo,948
+polka,949
+navajo,950
+trap espanol,951
+native american flute,952
+uk funky,953
+popping,954
+japanese classical performance,955
+post-punk argentina,956
+palm desert scene,957
+bebop,958
+j-metal,959
+tone,960
+brostep,961
+detroit hip hop,962
+mainland chinese pop,963
+british singer-songwriter,964
+concert band,965
+south carolina indie,966
+post-minimalism,967
+mindfulness,968
+traditional bluegrass,969
+london rap,970
+peruvian rock,971
+turbo folk,972
+progressive jazz fusion,973
+mande pop,974
+family gospel,975
+kawaii future bass,976
+german rock,977
+bachata,978
+cha-cha-cha,979
+bboy,980
+big room,981
+rave,982
+san diego rap,983
+brazilian soul,984
+deep big room,985
+enka,986
+manchester hip hop,987
+mariachi cristiano,988
+trad jazz catala,989
+p funk,990
+one-person band,991
+chillwave,992
+brit funk,993
+canadian contemporary r&b,994
+rap cristiano,995
+vintage swing,996
+trap argentino,997
+romantico,998
+cello,999
+spanish renaissance,1000
+post-doom metal,1001
+vintage old-time,1002
+classical piano trio,1003
+jig and reel,1004
+vocaloid,1005
+uk americana,1006
+nz reggae,1007
+violao,1008
+cambodian rock,1009
+german pop,1010
+arab folk,1011
+oakland indie,1012
+brazilian edm,1013
+american choir,1014
+dansktop,1015
+singaporean pop,1016
+norwegian indie,1017
+greek pop,1018
+vapor pop,1019
+sound team,1020
+zouk,1021
+rock nacional brasileiro,1022
+mississippi indie,1023
+grave wave,1024
+desi pop,1025
+spanish pop rock,1026
+venezuelan hip hop,1027
+clean comedy,1028
+singaporean mandopop,1029
+small room,1030
+mountain dulcimer,1031
+british soundtrack,1032
+nerdcore,1033
+doom metal,1034
+cumbia pop,1035
+nashville singer-songwriter,1036
+nyhc,1037
+circus,1038
+tex-mex,1039
+choro,1040
+canadian rock,1041
+instrumental grime,1042
+luk thung,1043
+ambient idm,1044
+chicago soul,1045
+electrofox,1046
+pony,1047
+kleine hoerspiel,1048
+japanese soundtrack,1049
+spanish baroque,1050
+quebec indie,1051
+dominican pop,1052
+sheffield indie,1053
+volksmusik,1054
+soda pop,1055
+uk pop punk,1056
+ambient techno,1057
+dmv rap,1058
+memphis americana,1059
+barbadian pop,1060
+japanese pop punk,1061
+jazz orchestra,1062
+sitar,1063
+deep motown,1064
+bush ballad,1065
+final fantasy,1066
+pinoy r&b,1067
+okc indie,1068
+mbalax,1069
+djent,1070
+persian traditional,1071
+guitarra argentina,1072
+scream rap,1073
+aussietronica,1074
+norwegian singer-songwriter,1075
+chinese classical performance,1076
+early us punk,1077
+tamborazo,1078
+kayokyoku,1079
+cumbia andina mexicana,1080
+hammered dulcimer,1081
+eau claire indie,1082
+afroswing,1083
+japanese singer-songwriter,1084
+experimental pop,1085
+new york drill,1086
+basshall,1087
+tollywood,1088
+lds youth,1089
+belgian pop,1090
+scottish singer-songwriter,1091
+uk alternative hip hop,1092
+german baroque,1093
+abstract beats,1094
+afrobeat,1095
+neue deutsche harte,1096
+australian trap,1097
+comic metal,1098
+musikkorps,1099
+mexican classic rock,1100
+uk garage,1101
+dub techno,1102
+christian trap,1103
+deep latin christian,1104
+bass house,1105
+pop quebecois,1106
+krautrock,1107
+classic schlager,1108
+native american hip hop,1109
+rwandan traditional,1110
+deep tropical house,1111
+spanish rock,1112
+greek folk,1113
+indie psych-pop,1114
+rap napoletano,1115
+south african jazz,1116
+swedish americana,1117
+scottish new wave,1118
+indie jazz,1119
+cumbia peruana,1120
+lebanese pop,1121
+popwave,1122
+deathgrind,1123
+dutch rock,1124
+cumbia villera,1125
+english baroque,1126
+new jersey punk,1127
+vermont indie,1128
+rap kreyol,1129
+boston hip hop,1130
+chillstep,1131
+sound effects,1132
+orquesta tipica,1133
+german soundtrack,1134
+swedish death metal,1135
+chopped and screwed,1136
+german house,1137
+pinoy praise,1138
+hoerspiel,1139
+moog,1140
+afrofuturism,1141
+autoharp,1142
+danish pop,1143
+funk carioca,1144
+happy hardcore,1145
+avant-garde,1146
+indie singer-songwriter,1147
+boy soprano,1148
+acid jazz,1149
+indy indie,1150
+contrabass,1151
+canadian electronic,1152
+vaudeville,1153
+vintage dutch pop,1154
+hawaiian indie,1155
+austin singer-songwriter,1156
+barbershop,1157
+dutch house,1158
+tipico,1159
+shakuhachi,1160
+chicago indie,1161
+horror synth,1162
+jug band,1163
+jazz tuba,1164
+israeli classical,1165
+christian indie,1166
+vegas indie,1167
+klezmer,1168
+mollywood,1169
+chinese indie,1170
+deep east coast hip hop,1171
+music hall,1172
+japanese dream pop,1173
+canadian comedy,1174
+tech house,1175
+chutney,1176
+sertanejo tradicional,1177
+albanian pop,1178
+accordion,1179
+classic polish pop,1180
+funk das antigas,1181
+sevdah,1182
+electropowerpop,1183
+swedish idol pop,1184
+drill,1185
+early reggae,1186
+latin arena pop,1187
+industrial hip hop,1188
+cumbia ranchera,1189
+tamil worship,1190
+musica para ninos,1191
+rhode island indie,1192
+early synthpop,1193
+yugoslav rock,1194
+ambient,1195
+classical trumpet,1196
+tagalog worship,1197
+irish pub song,1198
+hands up,1199
+austindie,1200
+punjabi pop,1201
+boogie-woogie,1202
+manila sound,1203
+musical advocacy,1204
+jacksonville indie,1205
+seattle indie,1206
+modern jazz piano,1207
+dakke dak,1208
+german punk,1209
+pinoy hip hop,1210
+shush,1211
+chamber choir,1212
+jazz boom bap,1213
+sovietwave,1214
+string folk,1215
+australian house,1216
+audiophile vocal,1217
+viola,1218
+alternative emo,1219
+classic turkish pop,1220
+czech contemporary classical,1221
+uzbek traditional,1222
+melodic deathcore,1223
+jazztronica,1224
+flamenco guitar,1225
+samba de roda,1226
+etherpop,1227
+irish classical,1228
+classic russian pop,1229
+ryukyu ongaku,1230
+israeli folk,1231
+entehno,1232
+bluegrass gospel,1233
+new jersey indie,1234
+nordic house,1235
+swing revival,1236
+cuban rumba,1237
+pianissimo,1238
+new england americana,1239
+nz indie,1240
+hokkien pop,1241
+oud,1242
+norsk lovsang,1243
+asmr,1244
+austro-german modernism,1245
+turkish folk,1246
+classical oboe,1247
+classic iskelma,1248
+classic belgian pop,1249
+asian american hip hop,1250
+turkish pop,1251
+san diego indie,1252
+uk reggae,1253
+uk alternative pop,1254
+lancaster pa indie,1255
+kids dance party,1256
+bahamian pop,1257
+brazilian psychedelic,1258
+tampa indie,1259
+welsh indie,1260
+scottish metal,1261
+bc underground hip hop,1262
+brooklyn indie,1263
+melodic death metal,1264
+panpipe,1265
+nueva ola peruana,1266
+irish hip hop,1267
+makossa,1268
+military rap,1269
+chinese traditional,1270
+minimal techno,1271
+german alternative rock,1272
+jazz accordion,1273
+estonian pop,1274
+norwegian black metal,1275
+vogue,1276
+classic afrobeat,1277
+ontario indie,1278
+turkish rock,1279
+musique concrete,1280
+yiddish folk,1281
+nightrun,1282
+olympia wa indie,1283
+louisiana blues,1284
+adventista,1285
+persian pop,1286
+progressive trance house,1287
+japanese emo,1288
+432hz,1289
+chilean rock,1290
+german dance,1291
+forro,1292
+indian jazz,1293
+son cubano clasico,1294
+portland indie,1295
+bengali folk,1296
+irish pop,1297
+abstract hip hop,1298
+japanese new wave,1299
+tape club,1300
+musica infantil,1301
+christian metal,1302
+carnatic vocal,1303
+venezuelan rock,1304
+japanese traditional,1305
+oxford choir,1306
+pop folk,1307
+afghan pop,1308
+argentine hip hop,1309
+deep southern soul,1310
+old west,1311
+florida death metal,1312
+welsh rock,1313
+deep uplifting trance,1314
+detroit trap,1315
+bounce,1316
+neo-pagan,1317
+christian alternative rock,1318
+techno,1319
+indie shoegaze,1320
+west african jazz,1321
+louisville indie,1322
+wave,1323
+j-dance,1324
+finnish edm,1325
+charanga,1326
+contemporary post-bop,1327
+latintronica,1328
+south african choral,1329
+classic french pop,1330
+college marching band,1331
+gamelan,1332
+clawhammer banjo,1333
+slam poetry,1334
+ukrainian pop,1335
+atlanta indie,1336
+speed garage,1337
+virginia punk,1338
+mexican traditional,1339
+irish electronic,1340
+italian mandolin,1341
+japanese vgm,1342
+faroese pop,1343
+dutch trance,1344
+swedish gangsta rap,1345
+indie dream pop,1346
+nordic contemporary classical,1347
+dutch trap pop,1348
+kompa,1349
+pinoy reggae,1350
+charlotte nc indie,1351
+deathrock,1352
+timba,1353
+british invasion,1354
+skiffle,1355
+salsa choke,1356
+dunedin indie,1357
+r&b en espanol,1358
+dub,1359
+fidget house,1360
+samba-rock,1361
+panamanian rock,1362
+kiwi rock,1363
+brass ensemble,1364
+j-division,1365
+chamber folk,1366
+new orleans indie,1367
+derby indie,1368
+acid rock,1369
+japanese heavy metal,1370
+deep psychobilly,1371
+kent indie,1372
+belgian new wave,1373
+latin afrobeat,1374
+slow game,1375
+shabad,1376
+quebec death metal,1377
+latin ska,1378
+british experimental,1379
+yoik,1380
+cyberpunk,1381
+fast melodic punk,1382
+rap espanol,1383
+colombian hip hop,1384
+queercore,1385
+arabic hip hop,1386
+belgian rock,1387
+indonesian indie,1388
+inuit traditional,1389
+alabama indie,1390
+nepali indie,1391
+kentucky mountain folk,1392
+darksynth,1393
+croatian rock,1394
+riddim,1395
+canadian classical,1396
+norman ok indie,1397
+brazilian ska,1398
+estonian hip hop,1399
+essex indie,1400
+colombian rock,1401
+welsh metal,1402
+midwest americana,1403
+finnish soul,1404
+rune folk,1405
+easycore,1406
+irish metal,1407
+pittsburgh rap,1408
+rif,1409
+future garage,1410
+hauntology,1411
+kabarett,1412
+anarcho-punk,1413
+russian post-punk,1414
+art punk,1415
+breakcore,1416
+gypsy,1417
+indie rockism,1418
+xhosa,1419
+malaysian mandopop,1420
+chamber ensemble,1421
+italian techno,1422
+hmong pop,1423
+mallet,1424
+skramz,1425
+drill and bass,1426
+esperanto,1427
+cuban alternative,1428
+honky-tonk piano,1429
+guam indie,1430
+classical saxophone,1431
+oth indie,1432
+appalachian folk,1433
+australian talent show,1434
+tango cancion,1435
+columbus ohio indie,1436
+arabic jazz,1437
+brazilian boogie,1438
+uilleann pipes,1439
+vintage rockabilly,1440
+australian choir,1441
+trival,1442
+dub poetry,1443
+gothic post-punk,1444
+rock alternativo brasileiro,1445
+bmore,1446
+chihuahua indie,1447
+thai indie pop,1448
+avant-garde jazz,1449
+pop nacional,1450
+danish singer-songwriter,1451
+deep latin alternative,1452
+austin americana,1453
+musica antigua,1454
+deep delta blues,1455
+monterrey indie,1456
+modern string quartet,1457
+horror punk,1458
+melodic metal,1459
+calgary indie,1460
+southern americana,1461
+islamic recitation,1462
+russian pop,1463
+folk rock italiano,1464
+folklore argentino,1465
+ilocano pop,1466
+scottish fiddle,1467
+melodic dubstep,1468
+graz indie,1469
+swedish soul,1470
+danish rock,1471
+j-rap,1472
+string band,1473
+german renaissance,1474
+classic russian rock,1475
+soviet synthpop,1476
+psychedelic pop,1477
+toronto rap,1478
+new wave of thrash metal,1479
+minecraft,1480
+renaissance,1481
+dutch cabaret,1482
+danspunk,1483
+swedish underground rap,1484
+power thrash,1485
+yodeling,1486
+historic string quartet,1487
+salsa cubana,1488
+dc indie,1489
+swedish doom metal,1490
+geek folk,1491
+gospel rap,1492
+danish jazz,1493
+latino comedy,1494
+spanish metal,1495
+nz folk,1496
+cornwall indie,1497
+ny roots,1498
+turkish psych,1499
+muziek voor kinderen,1500
+symphonic black metal,1501
+tuareg guitar,1502
+modern jazz trio,1503
+brazilian punk,1504
+electroclash,1505
+jump up,1506
+hong kong hip hop,1507
+french movie tunes,1508
+euphoric hardstyle,1509
+hindustani instrumental,1510
+animal singing,1511
+twoubadou,1512
+paisley underground,1513
+yugoslav new wave,1514
+huapango,1515
+deep r&b,1516
+indorock,1517
+dutch jazz,1518
+ghanaian traditional,1519
+german show tunes,1520
+desi hip hop,1521
+dutch indie,1522
+deep euro house,1523
+dark techno,1524
+j-idol,1525
+norwegian classical,1526
+cape breton folk,1527
+malmo indie,1528
+neo-rockabilly,1529
+dubstep,1530
+scottish folk,1531
+partido alto,1532
+pibroch,1533
+turkish modern jazz,1534
+progressive psytrance,1535
+boston indie,1536
+modern big band,1537
+dark jazz,1538
+iowa indie,1539
+italo dance,1540
+chinese folk,1541
+folclor colombiano,1542
+west australian hip hop,1543
+experimental ambient,1544
+lithuanian folk,1545
+kentucky indie,1546
+garage pop,1547
+experimental big band,1548
+russian punk,1549
+chicago pop punk,1550
+early music choir,1551
+cymraeg,1552
+ukrainian choir,1553
+musica canaria,1554
+trap chileno,1555
+zimdancehall,1556
+hungarian contemporary classical,1557
+swedish prog,1558
+folclore navarra,1559
+belgian edm,1560
+pittsburgh indie,1561
+tucson indie,1562
+tulsa indie,1563
+swedish singer-songwriter,1564
+plunderphonics,1565
+australian alternative pop,1566
+orquesta cubana,1567
+buffalo ny indie,1568
+nashville americana,1569
+horrorcore,1570
+thall,1571
+texas pop punk,1572
+rochester ny indie,1573
+motivation,1574
+nl folk,1575
+duduk,1576
+turkish trap pop,1577
+alternative pop rock,1578
+bay area indie,1579
+groove room,1580
+beat poetry,1581
+detskie pesni,1582
+korean ost,1583
+cumbia santafesina,1584
+egyptian pop,1585
+beninese pop,1586
+dinner jazz,1587
+keroncong,1588
+boy pop,1589
+chaotic hardcore,1590
+texas punk,1591
+washboard,1592
+middle eastern traditional,1593
+christchurch indie,1594
+trash rock,1595
+brain waves,1596
+footwork,1597
+float house,1598
+dabke,1599
+japanese alternative rock,1600
+louvor,1601
+new jersey hardcore,1602
+neo-trad metal,1603
+nwothm,1604
+hula,1605
+canadian folk,1606
+polish jazz,1607
+musica de fondo,1608
+harp,1609
+channel pop,1610
+singing bowl,1611
+gothabilly,1612
+irish indie,1613
+dream trance,1614
+deep dance pop,1615
+synth funk,1616
+australian post-punk,1617
+liedermacher,1618
+sarod,1619
+magyar,1620
+vintage hawaiian,1621
+mashup,1622
+japanese punk rock,1623
+nordic folk,1624
+military cadence,1625
+messianic praise,1626
+semba,1627
+musica popular paraense,1628
+canadian indie folk,1629
+folclore extremeno,1630
+okinawan pop,1631
+swedish synth,1632
+kindermusik,1633
+german underground rap,1634
+deep g funk,1635
+eastern bloc groove,1636
+jordanian pop,1637
+college a cappella,1638
+german pop rock,1639
+puerto rican rock,1640
+swiss worship,1641
+swedish progressive metal,1642
+kodomo no ongaku,1643
+gainesville indie,1644
+vancouver indie,1645
+instrumental acoustic guitar,1646
+glitch,1647
+gothic americana,1648
+american contemporary classical,1649
+traditional funk,1650
+garage rock,1651
+mexican son,1652
+japanese folk,1653
+bulgarian folk,1654
+omaha indie,1655
+chinese hip hop,1656
+death metal,1657
+psychedelic punk,1658
+chill lounge,1659
+pittsburgh rock,1660
+czech hip hop,1661
+canadian psychedelic,1662
+circuit,1663
+classic pakistani pop,1664
+virginia metal,1665
+nuevo tango,1666
+psychill,1667
+fluxwork,1668
+proto-rap,1669
+destroy techno,1670
+south african rock,1671
+rap dominicano,1672
+deep funk,1673
+norwegian choir,1674
+vintage gospel,1675
+arabesk,1676
+progressive metalcore,1677
+wyoming roots,1678
+yoga,1679
+slavic folk metal,1680
+free folk,1681
+j-reggae,1682
+norwegian jazz,1683
+scottish hip hop,1684
+classic eurovision,1685
+malaysian indie,1686
+drum and bass,1687
+japanese power metal,1688
+pakistani pop,1689
+toronto indie,1690
+mizrahi,1691
+dark cabaret,1692
+vietnamese pop,1693
+doujin,1694
+detske pisnicky,1695
+mantra,1696
+j-pixie,1697
+vancouver metal,1698
+moldovan pop,1699
+andean,1700
+lexington ky indie,1701
+telugu worship,1702
+korean indie rock,1703
+afrobeat brasileiro,1704
+canadian post-rock,1705
+lo-fi house,1706
+neofolk,1707
+traditional ska,1708
+slamming deathcore,1709
+australian underground hip hop,1710
+italian library music,1711
+progressive alternative,1712
+channel islands indie,1713
+polynesian traditional,1714
+accordeon,1715
+musique peule,1716
+deep minimal techno,1717
+afro-cuban traditional,1718
+canadian blues,1719
+complextro,1720
+gqom,1721
+piano mpb,1722
+south dakota indie,1723
+slc indie,1724
+chinese jazz,1725
+spiritual hip hop,1726
+chinese idol pop,1727
+binaural,1728
+nz punk,1729
+eurovision,1730
+transpop,1731
+alberta hip hop,1732
+chattanooga indie,1733
+american post-rock,1734
+rochester mn indie,1735
+breton folk,1736
+swiss metal,1737
+wind quintet,1738
+ecuadorian pop,1739
+traditional british folk,1740
+proto-techno,1741
+dark post-punk,1742
+folclor afrocolombiano,1743
+ambient pop,1744
+taiwan hip hop,1745
+pet calming,1746
+greek swing,1747
+japanese jazztronica,1748
+garage punk blues,1749
+gospel reggae,1750
+swedish house,1751
+cumbia ecuatoriana,1752
+italian pop rock,1753
+electronic rock,1754
+belgian indie,1755
+romanian hip hop,1756
+kashmiri pop,1757
+icelandic classical,1758
+ghanaian hip hop,1759
+modern psychedelic folk,1760
+welsh folk,1761
+croatian folk,1762
+swedish post-hardcore,1763
+south african country,1764
+tamil hip hop,1765
+kabyle,1766
+swedish indie folk,1767
+orlando indie,1768
+deep acoustic pop,1769
+indian violin,1770
+rap chileno,1771
+australian psych,1772
+russian metal,1773
+dutch folk,1774
+ukrainian classical,1775
+japanese classical,1776
+mento,1777
+canadian electropop,1778
+indie game soundtrack,1779
+street band,1780
+pop peruano,1781
+saskatchewan indie,1782
+narodna muzika,1783
+english indie rock,1784
+glam punk,1785
+shaabi,1786
+harmonica jazz,1787
+electronic djent,1788
+indonesian hip hop,1789
+rva indie,1790
+pirate,1791
+serialism,1792
+christian punk,1793
+modular synth,1794
+jamgrass,1795
+folklore ecuatoriano,1796
+neo-traditional bluegrass,1797
+carnatic instrumental,1798
+deep free jazz,1799
+popgaze,1800
+axe,1801
+k-pop boy group,1802
+gothenburg indie,1803
+polish post-rock,1804
+huayno,1805
+auckland indie,1806
+lo star,1807
+future house,1808
+japanese jazz,1809
+orgcore,1810
+pop argentino,1811
+polish rock,1812
+musique pour enfants,1813
+moroccan pop,1814
+zapstep,1815
+jewish cantorial,1816
+indonesian worship,1817
+south african pop,1818
+variete francaise,1819
+south african hip hop,1820
+canadian choir,1821
+guitar case,1822
+russian jazz,1823
+spanish folk metal,1824
+focus beats,1825
+swedish black metal,1826
+nordic soundtrack,1827
+hardvapour,1828
+milwaukee indie,1829
+fo jing,1830
+korean classical performance,1831
+japanese post-hardcore,1832
+classic psychedelic rock,1833
+rap conscient,1834
+neo-traditional country,1835
+vbs,1836
+deep indie singer-songwriter,1837
+new beat,1838
+finnish alternative rock,1839
+irish fiddle,1840
+pop catracho,1841
+czech rock,1842
+trio cubano,1843
+swedish eurodance,1844
+japanese garage rock,1845
+francoton,1846
+isle of wight indie,1847
+tabla,1848
+emocore,1849
+el paso indie,1850
+flick hop,1851
+coverchill,1852
+belly dance,1853
+moravian folk,1854
+french reggae,1855
+japanese psychedelic,1856
+deep punk rock,1857
+afro-funk,1858
+musica jibara,1859
+boston hardcore,1860
+minimal tech house,1861
+ethiopian pop,1862
+irish accordion,1863
+beat italiano,1864
+nu skool breaks,1865
+kolsche karneval,1866
+retro metal,1867
+ukg revival,1868
+art rock,1869
+knoxville indie,1870
+strut,1871
+classic thai pop,1872
+jazz colombiano,1873
+barnmusik,1874
+danish post-punk,1875
+swedish dancehall,1876
+bossa nova jazz,1877
+jazz chileno,1878
+chill beats,1879
+pinoy pop punk,1880
+danish electronic,1881
+music box,1882
+gothic symphonic metal,1883
+ska mexicano,1884
+filthstep,1885
+substep,1886
+uk noise rock,1887
+steelpan,1888
+punta,1889
+classic finnish pop,1890
+malian blues,1891
+guatemalan pop,1892
+latin metal,1893
+bard,1894
+slovak pop,1895
+catstep,1896
+chicha,1897
+chinese classical,1898
+anadolu rock,1899
+electric bass,1900
+punk rock italiano,1901
+funana,1902
+iraqi pop,1903
+spanish indie pop,1904
+wrock,1905
+bay area hip hop,1906
+french baroque,1907
+portsmouth indie,1908
+kwaito house,1909
+latin talent show,1910
+modern ska punk,1911
+canadian americana,1912
+musica infantil catala,1913
+deep groove house,1914
+deep cumbia sonidera,1915
+british indie rock,1916
+czech folk,1917
+spanish invasion,1918
+classical countertenor,1919
+antilliaanse folklore,1920
+taiwan indie,1921
+edmonton indie,1922
+nu age,1923
+zen,1924
+korean trap,1925
+marathi pop,1926
+jovem guarda,1927
+brazilian rock,1928
+hindustani classical,1929
+funky breaks,1930
+mongolian pop,1931
+historical keyboard,1932
+space ambient,1933
+polca paraguaya,1934
+british contemporary classical,1935
+lute,1936
+psychedelic trance,1937
+experimental poetry,1938
+norwegian rock,1939
+drone ambient,1940
+cantopop,1941
+qawwali,1942
+russian dance,1943
+nightcore,1944
+baton rouge indie,1945
+chinese instrumental,1946
+deep northern soul,1947
+punjabi folk,1948
+corrosion,1949
+kentucky metal,1950
